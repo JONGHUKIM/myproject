@@ -8,7 +8,7 @@ public class ProjectMain {
 		System.out.println("깃허브에서 작성된 ...");
 		System.out.println("1");
 		System.out.println("2");
-		
+		System.out.println("@3");
 	}
 
 }
